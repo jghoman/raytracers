@@ -1,3 +1,5 @@
 */*.out
 */*.ppm
 */*.gch
+**/.gradle
+**/gradlew.bat
