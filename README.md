@@ -1,0 +1,3 @@
+## Raytracers
+
+This repo contains the source code developed while following along, and extending, [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8) and [Ray Tracing: The Next Week](https://www.amazon.com/Ray-Tracing-Next-Week-Minibooks-ebook/dp/B01CO7PQ8C/) by [Peter Shirley](https://www.cs.utah.edu/~shirley/).  I highly recommend both books.
